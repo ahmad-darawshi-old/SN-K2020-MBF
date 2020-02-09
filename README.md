@@ -1,2 +1,2 @@
-# SN-K2020-MBE-fundamentals-
+# SN-K2020-MBE-fundamentals
 Mobile-backend fundamentals
