@@ -21,7 +21,7 @@ Mobile-backend fundamentals
      * Configure master-item and use predefined item-view
      * Configure button (writeback action) on incident record - change incident status
 5. Configure icon-section
-6. Configure chart section (optional - **depends** on left time)
+6. Configure chart section (optional - **depends** on free time)
      * Configure line chart
      * Configure chart screen
      * Configure navigation button - redirect from chart to chart screen 
